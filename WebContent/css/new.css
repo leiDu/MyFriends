@@ -1,0 +1,48 @@
+@charset "utf-8";
+#right { float:left; width:100%;overflow-x:hidden; background:url(../images/rightbg.gif) right top no-repeat; text-align:left; font-size:12px;}
+.dqwz { float:left; width:970px; height:25px; border-bottom:1px dotted #bababa; color:#999; padding:5px 0 0 10px; font-size:12px;}
+.dqwz font { font-size:12px; color:#999; margin-right:5px; }
+.detail_list { float:left; width:99%; padding-left:10px; color:#333; margin-bottom:10px; position:relative; }
+.detail_list ul { float:left; width:99%; margin:0; padding-left:10px }
+.detail_list li { background:url(../images/icon03.gif) left 5px no-repeat; padding:0 0 0 10px; color:#666; width:98%; float:left; }
+.detail_list h5 { color:#fd5206; font-size:12px; font-weight:normal; }
+span.title, .tab .text span.title { float:left; background:url(../images/icon01.gif) 6px center no-repeat; width:150px; color:#fd5206; font-family:"微软雅黑"; font-size:15px; font-weight:bold; padding:5px 0 5px 25px; vertical-align:middle; }
+.search1 { background:#f1f1f1; border:1px solid #b5b5b5; float:left; width:99%; height:388px; margin-left:2px; padding-top:5px; }
+.search1 ul { float:left; background: url(../images/search1_hu.gif) -1px -1px no-repeat; background:none; width:100%; padding-bottom:5px; }
+.search1 li { float:left; background:url(../images/search1_2.gif) left top repeat-y; background:none; width:98%; padding:0px 0 0px 20px; }
+.search1 table { width:99%; line-height:25px; }
+.search1 th { text-align:right; width:15%; color:#333; word-break:keep-all; }
+.search1 a { color:#0093df; text-decoration:underline; }
+.search1 h3 { text-decoration:underline; cursor:pointer; width:20px; }
+.button1 { background:url(../img/button_bj.gif) repeat-x; height:20px; line-height:20px; border:1px solid #c33131; color:#fff; padding:0 6px; cursor:pointer; outline:none; }
+.gundong .open table{width:98%;}
+.gundong { float:left; width:99%; margin-top:5px; padding:0px 0px 16px 0; border:1px solid #ccc; overflow:auto; overflow-y:hidden; }
+.gundong table{width:auto; background:#fff; word-break:keep-all; word-wrap:normal; white-space:nowrap;}
+.gundong table td{word-break:keep-all; word-wrap:normal; padding:0 5px;white-space:nowrap;}
+.gundong .listTable{width:auto;  word-break:keep-all; word-wrap:normal; white-space:nowrap;}
+.gundong .listTable td{word-break:keep-all; word-wrap:normal; padding:0 5px;white-space:nowrap;}
+.gundong .listTable th{ word-break:keep-all; word-wrap:normal; padding:0 5px;white-space:nowrap;}
+.gundong .width100{width:100%;}
+.listTable, .listTable2 { background:#fff; float:left; margin:5px 0px 5px 5px; width:99%; border:1px solid #cdcdcd; border-width:1px 0 0 1px; }
+.listTable th, .listTable2 th { background:#e3e3e3; border:1px solid #cdcdcd; border-width:0 1px 1px 0; color:#333; height:30px; line-height:15px; text-align:center; }
+.listTable td, .listTable2 td { border:1px solid #cdcdcd; border-width:0 1px 1px 0; color:#333; height:30px; padding:5px 0; line-height:15px; font-weight:normal;text-align: center; }
+.listTable2 th { text-align:right; }
+.listTable2 td { padding:0 7px; }
+.listTable a, .listTable span.linkstyle { color:#c03d02; text-decoration:none; cursor:pointer; }
+.listTable a:hover {text-decoration:underline;}
+tr.tdyellow td { background:#f9f9e6; }
+tr.tdblue td { background:#e8edf5; }
+tr.tdred td { background:#fde3e5; }
+
+.wpager { padding:0 10px; line-height:30px; float:left; width:98%; }
+.wpageleft { float:left; }
+.wpageright { float:right; }
+
+.infowrite { border:1px solid #dcdcdc; background:#fff; float:left; margin:5px 0px 5px 5px; width:auto;}
+.infowrite th { border-bottom:1px dashed #ccc; text-align:right; padding:0 3px 0 0; color:#333; width:15%; font-weight:normal; height:30px; }
+.infowrite td { border-bottom:1px dashed #ccc; border-right:1px dashed #ccc; padding:0 0 0 3px; color:#000; }
+.infowrite a { color:#FF0000; text-decoration:underline; }
+.infowrite td.ts, .infowrite03 td.ts, * td.ts { color:#838383; }
+.infowrite td.ts1 { color:#838383; background:#ededed; padding:0 10px; }
+.ddu { background:#efefef; border-left:1px dashed #ccc; border-right:1px dashed #ccc; }
+
